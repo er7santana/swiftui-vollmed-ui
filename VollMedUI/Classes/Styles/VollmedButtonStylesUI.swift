@@ -11,12 +11,10 @@ struct VollmedButtonStylesUI: View {
     var body: some View {
         VStack {
             Text("Button Styles")
+                .titleLBoldStyle()
+                .padding(.bottom, 40)
             
-            Button {
-                
-            } label: {
-                Text("Confirm")
-            }
+            Button("Confirm") { }
             .buttonStyle(ConfirmPrimaryButtonStyle())
             
             Button("Cancel") { }
