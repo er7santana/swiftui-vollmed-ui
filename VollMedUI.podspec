@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VollMedUI'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Design system module user in the Vollmed app'
 
   s.description      = "Design system module user in the Vollmed app used in the development of the iOS app. It contains all the components and styles used in the app, making it easy to maintain a consistent look and feel across the app. The module is built using SwiftUI and is designed to be easily integrated into any iOS app."

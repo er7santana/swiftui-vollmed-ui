@@ -38,6 +38,8 @@ public struct ConfirmPrimaryButtonStyle: ButtonStyle {
             .padding(.top, 8)
             .scaleEffect(configuration.isPressed ? 0.95 : 1)
     }
+    
+    public init() { }
 }
 
 public struct CancelButtonStyle: ButtonStyle {
@@ -52,6 +54,8 @@ public struct CancelButtonStyle: ButtonStyle {
             .padding(.top, 8)
             .scaleEffect(configuration.isPressed ? 0.95 : 1)
     }
+    
+    public init() { }
 }
 
 #Preview {
