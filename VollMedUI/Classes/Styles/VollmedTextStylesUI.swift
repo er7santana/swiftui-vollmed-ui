@@ -9,8 +9,6 @@ import SwiftUI
 
 struct VollmedTextStylesUI: View {
     
-    let boldColor = Color(red: 0.0/255.0, green: 33.0/255.0, blue: 61.0/255.0, opacity: 1)
-    
     var body: some View {
         VStack {
             Text("Title L Regular")
