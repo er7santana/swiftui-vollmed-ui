@@ -1,10 +1,5 @@
 # VollMedUI
 
-[![CI Status](https://img.shields.io/travis/er7santana/VollMedUI.svg?style=flat)](https://travis-ci.org/er7santana/VollMedUI)
-[![Version](https://img.shields.io/cocoapods/v/VollMedUI.svg?style=flat)](https://cocoapods.org/pods/VollMedUI)
-[![License](https://img.shields.io/cocoapods/l/VollMedUI.svg?style=flat)](https://cocoapods.org/pods/VollMedUI)
-[![Platform](https://img.shields.io/cocoapods/p/VollMedUI.svg?style=flat)](https://cocoapods.org/pods/VollMedUI)
-
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
