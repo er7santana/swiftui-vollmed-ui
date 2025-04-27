@@ -17,7 +17,7 @@ xcuserdata/
 DerivedData
 *.hmap
 *.ipa
-Example/.spm.pods
+.spm.pods
 
 # Bundler
 .bundle
